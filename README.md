@@ -21,4 +21,4 @@ I love to build things and in this journey of building things ,I have learned a 
 ![Quizo](https://dharmikm.com/github_image/Quizo-Animate.gif)   
 
 ### [Fuel Finder](https://github.com/dharmikM/Fuel-Finder)
-![Fue-Finder](https://dharmikm.com/github_image/Fuel-Finder-Animate.gif)  
+![Fue-Finder](https://dharmikm.com/github_image/Fuel-Finder-Animation-main.gif)  
