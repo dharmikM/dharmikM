@@ -8,7 +8,7 @@ I love to build things and in this journey of building things ,I have learned a 
 ![Intro-Image](https://dharmikm.com/github_image/LinkedIn-Cover-photo.jpg)
 
 
-## Skills 
+# Skills 
 
 📱 : iOS, Android, React Native   
 🖥️ : MacOS, Windows  
@@ -16,7 +16,9 @@ I love to build things and in this journey of building things ,I have learned a 
 👨‍💻 : Xcode, Android Studio, Jira, Git, GitHub, Charles, Firebase
 
 
-## Work Example
+# Work Example
+### [Quizo](https://github.com/dharmikM/Quizo)
+![Quizo](https://dharmikm.com/github_image/Quizo-Animate.gif)   
 
-![Quizo](https://dharmikm.com/github_image/Quizo-Animate.gif)
-
+### [Fuel Finder](https://github.com/dharmikM/Fuel-Finder)
+![Fue-Finder](https://dharmikm.com/github_image/Fuel-Finder-Animate.gif)  
