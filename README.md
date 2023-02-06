@@ -1,6 +1,6 @@
 ### Hello,I'm Dharmik Mehta 👋
 
-I am a mobile developer with native and cross-platform mobile technology understanding. 
+I am a Software developer with native and cross-platform mobile technology understanding. 
 
 Building and learning everyday👨‍💻📚.
 
@@ -23,5 +23,5 @@ I love to build things and in this journey of building things ,I have learned a 
 
 📱 : iOS, Android, React Native   
 🖥️ : MacOS, Windows  
-💻 : Swift, Java, JavaScript  
+💻 : Swift, ReactJS
 👨‍💻 : Xcode, Android Studio, Jira, Git, GitHub, Charles, Firebase
